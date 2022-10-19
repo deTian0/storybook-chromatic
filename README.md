@@ -1,0 +1,2 @@
+# storybook-chromatic
+storybook-chromatic
